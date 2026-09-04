@@ -1,0 +1,7 @@
+﻿# Local development & source files
+index.source.html
+encrypt_build.py
+Push/
+__pycache__/
+*.pyc
+.system_generated/
